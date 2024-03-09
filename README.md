@@ -14,7 +14,7 @@ Let's examine each of the components individually.
 
 ## 📝 Resume content (in Markdown)
 
-As developers, it's a familiar practice to craft `README.md` files for our projects, serving as documentation hubs. Think of this process as creating a similar `README.md` but for your professional journey. It encapsulates your work experience, detailing roles in companies, projects undertaken, and educational background. If you're seeking more convincing reasons to opt for a Markdown-based resume, read [this](https://resumey.pro/blog/4-reasons-to-write-your-resume-with-markdown/) article.
+As developers, it's a familiar practice to craft `README.md` files for our projects, serving as documentation hubs. Think of this process as creating a similar `README.md` but for your professional journey. It encapsulates your work experience, detailing roles in companies, projects undertaken, and educational background. If you're seeking more convincing reasons to opt for a Markdown-based resume, read [this](https://resumey.pro/blog/4-reasons-to-write-your-resume-with-markdown/?ref=markdown-resume-generator) article.
 
 
 ## 📝 Design (with CSS)
@@ -37,11 +37,11 @@ Once your Markdown is converted into HTML with the styles linked, behold the web
 
 Upon transforming the web version into a PDF format, behold the creation of a stunning resume that outshines 90% of its counterparts. Completely tailored to your specifications, this document becomes a powerful tool for outbound job applications. Crafted with precision, your custom PDF resume is now poised to make a lasting impression in the competitive job market, showcasing your skills and experiences in a professional and visually appealing manner.
 
-## ✨ Shameless Plug: [Resumey.Pro](https://resumey.pro)
+## ✨ Shameless Plug: [Resumey.Pro](https://resumey.pro?ref=markdown-resume-generator)
 
 Indulging in the classic developer tendencies – preferring to build a blog site rather than writing an article – is all too relatable. Sure, you could take the DIY route, but the key here is getting your resume out there. That's where Resumey.Pro comes in. We've poured considerable effort into creating a Markdown resume generator that's exceptionally flexible.
 
 - While Markdown isn't tailor-made for resumes, Resumey.Pro steps up, supporting a split layout – a common resume format.
 - Designing, often a skill-intensive and time-consuming task, is streamlined with Resumey.Pro's themes, allowing for easy customizations in color, size, spacing, and more.
 
-Give it a try and let us know your thoughts: [Resumey.Pro](https://resumey.pro). Your resume deserves a touch of developer finesse! 
+Give it a try and let us know your thoughts: [Resumey.Pro](https://resumey.pro?ref=markdown-resume-generator). Your resume deserves a touch of developer finesse! 
